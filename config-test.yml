@@ -1,2 +1,4 @@
-server:
-  port: 8001
+#测试
+config:
+  info: this is test environment
+  version: 1.0

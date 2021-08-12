@@ -1,2 +1,4 @@
-server:
-  port: 8001
+#开发
+config:
+  info: this is deployment environment
+  version: 1.0

@@ -1,2 +1,4 @@
-server:
-  port: 8001
+#生产
+config:
+  info: this is prpdproduct environment
+  version: 1.0
